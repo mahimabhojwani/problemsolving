@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class InputArray {
 
+    /**
+     * @param arr
+     */
     public static void readArray(int arr[]) {
 
         Scanner sc = new Scanner(System.in);
